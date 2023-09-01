@@ -16,5 +16,9 @@
     ],
     "version": 4,
     "C_Cpp.errorSquiggles": "enabled",
-    "code-runner.runInTerminal": true
+    "code-runner.runInTerminal": true,
+    "files.associations": {
+        "*.js": "javascriptreact",
+        "iostream": "cpp"
+    }
 }
