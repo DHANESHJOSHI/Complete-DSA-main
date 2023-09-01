@@ -1,0 +1,10 @@
+In this chapter, we will cover some beginner-friendly problems and walk through the steps to solve them. 
+This chapter is intended for beginners and will help you get your feet wet and become comfortable with the problem-solving process on LeetCode. 
+For those who are already at the level where you can solve medium or hard problems, you can skip to the next chapter.
+
+Note that all video solutions are provided in Java since this is the most common language used on LeetCode. 
+The ideas and logic used to solve the problem are the same, so regardless of what 
+language you use, you can learn from the video solutions. Understanding code, regardless of the language 
+it is written in, is a good skill to build and not as scary of a challenge as it may initially sound. 
+In any case, for all of the problems in this chapter, solutions are provided in several popular languages. 
+These can be found either in the official solution article or in the discussion section for the problem.
